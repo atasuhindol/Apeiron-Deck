@@ -19,8 +19,8 @@ Apeiron Deck is a handheld deck for pc and gaming
 - D12: Left Trigger (Back)
 - D13: Right Trigger (Back)
 - A0: Battery Input
-- A1: Right Joystick Ry
-- A2: Right Joystick Rx
+- A1: Right Joystick Rx
+- A2: Right Joystick Ry
 - A3: Left  Joystick Rx
 - A4: Left  Joystick Ry
 - A5: Left Joystick Button, -> 10k ohm -> Right Joystick Button
